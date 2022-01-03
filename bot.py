@@ -6,7 +6,7 @@ sureler = []
 
 @bot.event
 async def on_ready():
-    print('TurkishBot is ready!')
+    print('Ayetmatik ac gibi gorunuyor, sanirim allahini yiyecek!')
 
 
 @bot.command()
